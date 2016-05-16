@@ -1,0 +1,28 @@
+{
+  "name": "imgs",
+  "version": "1.0.0",
+  "description": "Software to list images from local machine along the network.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolzon/imgs.git"
+  },
+  "keywords": [
+    "images",
+    "list"
+  ],
+  "author": "Bolzon <blzn@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolzon/imgs/issues"
+  },
+  "homepage": "https://github.com/bolzon/imgs#readme"
+}
